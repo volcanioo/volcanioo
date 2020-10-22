@@ -1,4 +1,5 @@
-### Hi there!
+# Hi there! 👋🏼
+![Image of Yaktocat](me.png)
 
 I like to develop things.
 
