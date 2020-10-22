@@ -7,7 +7,6 @@ I'm a Front-end Engineer at [Homeday](https://www.homeday.de/de/) a company that
 - 👨🏼‍💻 I’m currently working with WebGL for a side project.
 - 🌱 I’m currently learning the main purpose of the bundle approach on javascript. 
 - 📫 How to reach me: arayuzgelistirici@gmail.com
-- ⚡ Fun fact: I'm a fan of pink color. (Because pink is always funny.)
 
 <!--
 **volcanioo/volcanioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
