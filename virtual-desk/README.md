@@ -4,7 +4,7 @@ This repository created to have a virtual desk that contains my detailed researc
 ![Image of Virtual Desk](virtual-desk.png)
 
 ## Up to Today
-1. [Tailwindcss](/tailwind-css)
+1. [Tailwindcss](https://github.com/volcanioo/volcanioo/tree/main/virtual-desk/tailwind-css)
 
 ## I aim to..
 1. Find my missing points here.
