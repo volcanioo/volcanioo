@@ -2,14 +2,13 @@
 
 I love to develop useful apps. Currently, I'm working at [Homeday](https://www.homeday.de/de/) a company that makes it quick and straightforward to sell/buy a house in Germany. I'm working on [My Homeday App](https://my.homeday.de/login) which is entirely structured with Vue.
  
-- 👨🏼‍💻 I’m currently working with WebGL for a side project.
-- 🌱 I’m currently learning the main purpose of the bundle approach on javascript. 
+- 👨🏼‍💻 You can see what I'm searching and learning currently [on my virtual desk](https://github.com/volcanioo/volcanioo/tree/main/virtual-desk).
 - 📫 How to reach me: arayuzgelistirici@gmail.com
 
 🥂 Cheers!
 
 --------------
-[Twitter](https://twitter.com/mvolkann) • [Linkedin](https://www.linkedin.com/in/volkandeveci/)
+[Twitter](https://twitter.com/mvolkann) • [Linkedin](https://www.linkedin.com/in/volkandeveci/) • [Virtual Desk](https://github.com/volcanioo/volcanioo/tree/main/virtual-desk) • [Website](http://dvci.net/)
 
 <!--
 **volcanioo/volcanioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
