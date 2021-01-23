@@ -1,5 +1,6 @@
 # Virtual Desk
-This repository created to have a virtual desk that contains my detailed research notes that I took while learning something new. I want to use this repository on the weekends to learn new technologies that related to my expertise area or my interests. Each file will have a README file and code examples to share what I understood on specific topics. 
+This repository is created to have a virtual desk that contains the detailed search notes that I took while learning something new. I want to use this repository on the weekends to learn new technologies that related to my expertise area or interests. Each file will have a README file and code examples to share what I understood on specific topics.
+
 
 ![Image of Virtual Desk](virtual-desk.png)
 
