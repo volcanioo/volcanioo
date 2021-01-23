@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/main.css -o public/main.css"
+  },
+  "keywords": [],
+  "author": " <Mehmet Volkan Deveci>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.2.3",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
+  }
+}
