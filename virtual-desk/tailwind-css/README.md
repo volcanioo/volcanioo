@@ -3,6 +3,7 @@
 	* [How does it work?](#how-does-it-work)
 	* [Customizing?](#customizing)
 * [First Impressions](#first-impressions)
+* [Discussion](https://github.com/volcanioo/volcanioo/discussions/2)
 * [Resources](#resources)
 
 # What did I understand?
@@ -67,7 +68,7 @@ So, In short; The documentation says:
 # First Impressions
 I realized that Tailwindcss is what I had wished for [in 2017](https://github.com/volcanioo/Muesnet-CSS-Framework#grid-system-in-percent "in 2017"). After watching a short tutorial by [Dan Vega](https://www.youtube.com/watch?v=xP_uJj8L_1Q "Dan Vega"), I only opened the [documentation](https://tailwindcss.com/docs/ "documentation") and spent a little bit of time on the utility section. So, That was a delightful work case for me.  
 
-Happy to see something like this in real!
+Happy to see something like this in real! If you want to discuss something, here is this file's [discussion.](https://github.com/volcanioo/volcanioo/discussions/2)
 
 # Resources
 
