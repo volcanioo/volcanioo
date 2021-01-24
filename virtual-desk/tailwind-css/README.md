@@ -1,6 +1,6 @@
 # Tailwindcss
 * [What did I understand?](#what-did-I-understand)
-	* [How does work?](#how-does-work)
+	* [How does it work?](#how-does-it-work)
 	* [Customizing?](#customizing)
 * [First Impressions](#first-impressions)
 * [Resources](#resources)
