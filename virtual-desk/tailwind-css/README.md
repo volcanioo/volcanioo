@@ -24,7 +24,7 @@ Tailwind provides an extended styling property memory as a large number of class
 
 But the same work, can be possible without a css file while feeding by Tailwind's utility classes. 
 
-#### How does work?
+## How does it work?
 You don't have to create a css file to do styling on your html with Tailwindcss 
 ```html
 <!-- I just use bg-red-500 class instead of having custom styles -->
