@@ -6,6 +6,7 @@ This repository has been created to have a virtual desk that contains the detail
 
 ## Up to Today
 1. [Tailwindcss](https://github.com/volcanioo/volcanioo/tree/main/virtual-desk/tailwind-css)
+1. Accessibility `WIP`
 
 ## I aim to..
 1. Find my missing points here.
