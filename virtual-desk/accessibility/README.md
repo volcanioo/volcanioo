@@ -8,7 +8,7 @@
 * [Resources](#resources)
 
 # What did I understand?
-Web Accessibility means people with disabilities can perceive, understand, navigate and interact with the Web. One of the purposes is to make them can **contribute**/**use** to the Web. 
+Web Accessibility means people with disabilities can perceive, understand, navigate and interact with the Web. One of the purposes is to make them can **contribute** to the Web. 
 
 There are similar terms to web accessibility, such as UI, UX, Design, Internationalisation. The other term is Web Performance, which aims to fix slow connection issues. So, these terms are very similar but not the same fields. 
 
