@@ -1,9 +1,9 @@
 # Tailwindcss
-* [What I understood?](#what-I-understood)
+* [What did I understand?](#what-did-I-understand)
 * [First Impressions](#first-impressions)
 * [Resources](#resources)
 
-# What I understood?
+# What did I understand?
 Tailwindcss is a way of writing CSS without CSS Syntax.  In normal circumstances, If you want to have a button that has a background color on the index page, you have to follow these steps;
 
 **Step 1: Add an element**
