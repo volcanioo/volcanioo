@@ -1,17 +1,19 @@
 # Tailwindcss
 * [What did I understand?](#what-did-I-understand)
+	* [How does work?](#how-does-work)
+	* [Customizing?](#customizing)
 * [First Impressions](#first-impressions)
 * [Resources](#resources)
 
 # What did I understand?
 Tailwindcss is a way of writing CSS without CSS Syntax.  In normal circumstances, If you want to have a button that has a background color on the index page, you have to follow these steps;
 
-**Step 1: Add an element**
+#### Step 1: Add an element
 ```html
 <!-- index.html -->
 <button>Button</button>
 ```
-**Step 2: Set styles for the button**
+#### Step 2: Set styles for the button
 ```css
 /* index.css */
 button {
@@ -22,7 +24,7 @@ Tailwind provides an extended styling property memory as a large number of class
 
 But the same work, can be possible without a css file while feeding by Tailwind's utility classes. 
 
-**How does work?**: 
+#### How does work?
 You don't have to create a css file to do styling on your html with Tailwindcss 
 ```html
 <!-- I just use bg-red-500 class instead of having custom styles -->
