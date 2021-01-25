@@ -47,7 +47,7 @@ WebAIM Checklist is a guideline that provides the most important action items of
 * **Understandable**: Information and the operation of user interface must be understandable.
 * **Robust**: Content must be robust enough that it can be interpreted by a wide variety of user agents, **including assistive technologies.**
 
-Each section includes different checklists that change by the web content. So, (I think we can say:) web content has a significant role in web accessibility. On of the important section is perceivable section that has 4 different checklists for specific websites such as;
+Each section includes different checklists that change by the web content. So, (I think we can say:) web content has a significant role in web accessibility. One of the important section is perceivable section that has 4 different checklists for specific websites such as;
 
 * Text Alternatives: Provide text alternatives for any non-text content
 * Time-based Media: Provide alternatives for time-based media
