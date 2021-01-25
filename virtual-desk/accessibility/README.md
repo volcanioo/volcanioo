@@ -31,7 +31,7 @@ There are other reasons why developers should care, such as Human Rights, [Legal
 
 # Accessible Web for Everyone
 
-<p style="text-align: center; font-weight: bold;"> If you don't make it accessible, you make it inaccessible.</p>
+**<p align="center"> If you don't make it accessible, you make it inaccessible.</p>**
 
 I heard these words in a tutorial of Jon Kuperman. That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
 
@@ -55,7 +55,6 @@ Each section includes different checklists that change by the web content. So, (
 * Distinguishable: Make it easier for users to see and hear content including separating foreground from background
 
 ![WebAIM Checklist](imgs/webaim-checklist.png "Text Alternatives: Provide text alternatives for any non-text content")
-<p style="text-align: center; font-size: 14px; opacity: .5; margin-top: -10px;">Text Alternatives: Provide text alternatives for any non-text content</p>
 
 # First Impressions
 Oh! Accessibility is a huge topic than what I expected. I love it! In general, it seems a very sensitive topic to me. Here is a small paragraph that I really liked from [On Accessibility and the Lack of Proper HTML by Ian Devlin (*1)](https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/ "(*1)").
