@@ -4,6 +4,7 @@
 	* [Why developers should care?](#why-developers-should-care)
 	* [How developers care?](#how-developers-care)
 * [Accessible Web for Everyone](#accessible-web-for-everyone)
+	* [WebAIM Checklist](#webaim-checklist)
 * [First Impressions](#first-impressions)
 * [Resources](#resources)
 
@@ -29,10 +30,35 @@ I'm sure that I'll be updating this place a lot. Because, there are plenty amoun
 There are other reasons why developers should care, such as Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restrictions") and the opportunity of transforming %15 of the local population to potential users. 
 
 # Accessible Web for Everyone
-`work-in-progress`
+
+<p style="text-align: center; font-weight: bold;"> If you don't make it accessible, you make it inaccessible.</p>
+
+I heard these words in a tutorial of Jon Kuperman. That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
+
+> The purpose of this technique is to show how images can be marked so that they can be ignored by Assistive Technology. If no title attribute is used, and the alt text is set to null (i.e. alt="") it indicates to assistive technology that the image can be safely ignored. (*4) 
+
+W3C has huge documentation that provides general standards about accessibility. There is an organization called WebAIM that provides web accessibility resources since 1999. One of the most important resources is WebAIM Checklist.
+
+## WebAIM Checklist
+WebAIM Checklist is a guideline that provides the most important action items of W3C Accessibility specs. The guideline split accessibility standards into 4 main sections;
+
+* **Perceivable**: Web content is made available to the senses - sight, hearing, and/or touch.
+* **Operable**: forms, controls, and navigation are operable.
+* **Understandable**: Information and the operation of user interface must be understandable.
+* **Robust**: Content must be robust enough that it can be interpreted by a wide variety of user agents, **including assistive technologies.**
+
+Each section includes different checklists that change by the web content. So, (I think we can say:) web content has a significant role in web accessibility. The perceivable section has 4 different checklists for specific websites such as;
+
+* Text Alternatives: Provide text alternatives for any non-text content
+* Time-based Media: Provide alternatives for time-based media
+* Adaptable: Create content that can be presented in different ways (for example simpler layout) without losing information or structure
+* Distinguishable: Make it easier for users to see and hear content including separating foreground from background
+
+![WebAIM Checklist](imgs/webaim-checklist.png "Text Alternatives: Provide text alternatives for any non-text content")
+<p style="text-align: center; font-size: 14px; opacity: .5; margin-top: -10px;">Text Alternatives: Provide text alternatives for any non-text content</p>
 
 # First Impressions
-Oh! Accesibility is a huge topic than what I expected. I love it! In general, it seems very sensitive topic to me. Here are a small paragraph that I really liked from [On Accessibility and the Lack of Proper HTML by Ian Devlin (*1)](https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/ "(*1)").
+Oh! Accessibility is a huge topic than what I expected. I love it! In general, it seems a very sensitive topic to me. Here is a small paragraph that I really liked from [On Accessibility and the Lack of Proper HTML by Ian Devlin (*1)](https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/ "(*1)").
  
 > That one word can make web developers scream and run for cover or turn a deaf ear and a blind eye (no puns intended) in its general direction. Making sites accessible is also very important, but no matter how many people, regardless of who they are, talk about the importance of making websites more accessible, they are largely ignored. No-one cheers, no-one embraces what is said, and many don’t bother to build their sites with accessibility in mind.
 
@@ -43,4 +69,4 @@ Oh! Accesibility is a huge topic than what I expected. I love it! In general, it
 1. https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
 2. https://frontendmasters.com/courses/web-accessibility/introduction/
 3. https://www.w3.org/WAI/policies/
-
+4. https://www.w3.org/TR/WCAG20-TECHS/H67.html
