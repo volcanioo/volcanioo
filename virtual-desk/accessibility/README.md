@@ -37,7 +37,7 @@ I heard these words in a tutorial of Jon Kuperman. That was a striking detail fo
 
 > The purpose of this technique is to show how images can be marked so that they can be ignored by Assistive Technology. If no title attribute is used, and the alt text is set to null (i.e. alt="") it indicates to assistive technology that the image can be safely ignored. (*4) 
 
-W3C has huge documentation that provides general standards about accessibility. There is an organization called WebAIM that provides web accessibility resources since 1999. One of the most important resources is WebAIM Checklist.
+W3C has huge documentation that provides general standards about accessibility. There is an organization called WebAIM that provides web accessibility resources since 1999 and one of the most important resources is WebAIM Checklist.
 
 ## WebAIM Checklist
 WebAIM Checklist is a guideline that provides the most important action items of W3C Accessibility specs. The guideline split accessibility standards into 4 main sections;
@@ -47,7 +47,7 @@ WebAIM Checklist is a guideline that provides the most important action items of
 * **Understandable**: Information and the operation of user interface must be understandable.
 * **Robust**: Content must be robust enough that it can be interpreted by a wide variety of user agents, **including assistive technologies.**
 
-Each section includes different checklists that change by the web content. So, (I think we can say:) web content has a significant role in web accessibility. The perceivable section has 4 different checklists for specific websites such as;
+Each section includes different checklists that change by the web content. So, (I think we can say:) web content has a significant role in web accessibility. On of the important section is perceivable section that has 4 different checklists for specific websites such as;
 
 * Text Alternatives: Provide text alternatives for any non-text content
 * Time-based Media: Provide alternatives for time-based media
