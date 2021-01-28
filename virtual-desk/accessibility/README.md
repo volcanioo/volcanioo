@@ -5,7 +5,7 @@
 	* [How developers care?](#how-developers-care)
 * [Accessible Web for Everyone](#accessible-web-for-everyone)
 	* [WebAIM Checklist](#webaim-checklist)
-* [First Impressions](#first-impressions)
+* [Impressions](#impressions)
 * [Resources](#resources)
 
 # What did I understand?
@@ -25,7 +25,7 @@ There are plenty amount of facts to show why web accessibility is one of the imp
 ## Why developers should care?
 I'm sure that I'll be updating this place a lot. Because, there are plenty amount of perspectives about why developers should care.
 
-> "If we don't make it accessible, then we make it inaccessible." [(*2)](#resources)
+> "If we don't make it accessible, then we make it inaccessible." [(*5)](#resources)
 
 There are other reasons why developers should care, such as Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restrictions") and the opportunity of transforming %15 of the local population to potential users. 
 
@@ -35,12 +35,21 @@ There are other reasons why developers should care, such as Human Rights, [Legal
 
 I heard these words in a tutorial of Jon Kuperman. That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
 
-> The purpose of this technique is to show how images can be marked so that they can be ignored by Assistive Technology. If no title attribute is used, and the alt text is set to null (i.e. alt="") it indicates to assistive technology that the image can be safely ignored. (*4) 
+> The purpose of this technique is to show how images can be marked so that they can be ignored by Assistive Technology. If no title attribute is used, and the alt text is set to null (i.e. alt="") it indicates to assistive technology that the image can be safely ignored. [(*6)](#resources)
 
 W3C has huge documentation that provides general standards about accessibility. There is an organization called WebAIM that provides web accessibility resources since 1999 and one of the most important resources is WebAIM Checklist.
 
+There are a couple of different organizations/communities that provides various tools/resources, such as;
+
+* [WebAIM Checklist](#webaim-checklist)
+* [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org//) `WIP`
+* [The A11Y Project](https://www.a11yproject.com/) `WIP`
+* [HTML5 Accessibility](http://html5accessibility.com/)
+* [Accecible Colors](https://accessible-colors.com/)
+* [Mozilla Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+
 ## WebAIM Checklist
-WebAIM Checklist is a guideline that provides the most important action items of W3C Accessibility specs. The guideline split accessibility standards into 4 main sections;
+[WebAIM Checklist](https://webaim.org/standards/wcag/checklist) is a guideline that provides the most important action items of W3C Accessibility specs. The guideline split accessibility standards into 4 main sections;
 
 * **Perceivable**: Web content is made available to the senses - sight, hearing, and/or touch.
 * **Operable**: forms, controls, and navigation are operable.
@@ -56,16 +65,29 @@ Each section includes different checklists that change by the web content. So, (
 
 ![WebAIM Checklist](imgs/webaim-checklist.png "Text Alternatives: Provide text alternatives for any non-text content")
 
-# First Impressions
-Oh! Accessibility is a huge topic than what I expected. I love it! In general, it seems a very sensitive topic to me. Here is a small paragraph that I really liked from [On Accessibility and the Lack of Proper HTML by Ian Devlin (*1)](https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/ "(*1)").
+# Impressions
+Oh! Accessibility is a huge topic than what I expected. I love it! In general, it seems a susceptible topic to me. Here is a small paragraph that I really liked from [On Accessibility and the Lack of Proper HTML by Ian Devlin](https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/ "(*1)").
  
 > That one word can make web developers scream and run for cover or turn a deaf ear and a blind eye (no puns intended) in its general direction. Making sites accessible is also very important, but no matter how many people, regardless of who they are, talk about the importance of making websites more accessible, they are largely ignored. No-one cheers, no-one embraces what is said, and many don’t bother to build their sites with accessibility in mind.
 
 > But why is this? Why do developers ignore those who would benefit from their websites being more accessible? Are they not people too? Do they really want to actively shun these people from accessing their website’s content and use it the way that they need? Is this a conscious decision made by web developers? Is it laziness? Ignorance? Fear? Or do developers simply decide that the number of people who would benefit from such accessibility are, like IE8 users, simply not worth the hassle?
 
+:o
+
 # Resources
 
-1. https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
-2. https://frontendmasters.com/courses/web-accessibility/introduction/
+6. https://www.w3.org/TR/WCAG20/
+1. https://wave.webaim.org/
+1. https://developer.mozilla.org/en-US/docs/Web/Accessibility
 3. https://www.w3.org/WAI/policies/
+2. https://frontendmasters.com/courses/web-accessibility/introduction/
 4. https://www.w3.org/TR/WCAG20-TECHS/H67.html
+1. https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
+3. https://www.iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
+1. https://dev.to/temmietope/web-accessibility-building-website-for-everyone-2a5b
+2. https://medium.com/fed-or-dead/let-s-try-harder-with-web-accessibility-1d1a8db7afc0
+4. https://twitter.com/stackblitz/status/1323267096512405505
+5. https://www.a11yproject.com/checklist/#toc_Success-criteria
+8. https://accessible-colors.com/
+1. https://www.a11yproject.com/
+1. http://html5accessibility.com/
