@@ -1,7 +1,7 @@
 # Web Accessibility
 * [What did I understand?](#what-did-I-understand)
 	* [Facts](#facts)
-	* [Why developers should care?](#why-developers-should-care)
+	* [Why developers should care? ](#why-developers-should-care) `WIP`
 	* [How developers care?](#how-developers-care)
 * [Accessible Web for Everyone](#accessible-web-for-everyone)
 	* [WebAIM Checklist](#webaim-checklist)
@@ -22,12 +22,12 @@ There are plenty amount of facts to show why web accessibility is one of the imp
 2. 15% of the World Population with up to 190 million (3.8%) people aged 15 years and older having significant difficulties in functioning, often requiring healthcare services.
 3. **People with disabilities can live and participate in the community. They can become potential users.**
 
-## Why developers should care?
-I'm sure that I'll be updating this place a lot. Because, there are plenty amount of perspectives about why developers should care.
-
+## Why developers should care? 
 > "If we don't make it accessible, then we make it inaccessible." [(*5)](#resources)
 
-There are other reasons why developers should care, such as Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restrictions") and the opportunity of transforming %15 of the local population to potential users. 
+Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restrictions") and the opportunity of transforming %15 of the local population to potential users. 
+
+`WIP`
 
 # Accessible Web for Everyone
 
@@ -76,18 +76,18 @@ Oh! Accessibility is a huge topic than what I expected. I love it! In general, i
 
 # Resources
 
-6. https://www.w3.org/TR/WCAG20/
-1. https://wave.webaim.org/
-1. https://developer.mozilla.org/en-US/docs/Web/Accessibility
-3. https://www.w3.org/WAI/policies/
-2. https://frontendmasters.com/courses/web-accessibility/introduction/
-4. https://www.w3.org/TR/WCAG20-TECHS/H67.html
-1. https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
-3. https://www.iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
-1. https://dev.to/temmietope/web-accessibility-building-website-for-everyone-2a5b
-2. https://medium.com/fed-or-dead/let-s-try-harder-with-web-accessibility-1d1a8db7afc0
-4. https://twitter.com/stackblitz/status/1323267096512405505
-5. https://www.a11yproject.com/checklist/#toc_Success-criteria
-8. https://accessible-colors.com/
-1. https://www.a11yproject.com/
-1. http://html5accessibility.com/
+1. https://www.w3.org/TR/WCAG20/
+2. https://wave.webaim.org/
+3. https://developer.mozilla.org/en-US/docs/Web/Accessibility
+4. https://www.w3.org/WAI/policies/
+5. https://frontendmasters.com/courses/web-accessibility/introduction/
+6. https://www.w3.org/TR/WCAG20-TECHS/H67.html
+7. https://iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
+8. https://www.iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html/
+9. https://dev.to/temmietope/web-accessibility-building-website-for-everyone-2a5b
+10. https://medium.com/fed-or-dead/let-s-try-harder-with-web-accessibility-1d1a8db7afc0
+11. https://twitter.com/stackblitz/status/1323267096512405505
+12. https://www.a11yproject.com/checklist/#toc_Success-criteria
+13. https://accessible-colors.com/
+14. https://www.a11yproject.com/
+15. http://html5accessibility.com/
