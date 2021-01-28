@@ -2,7 +2,6 @@
 * [What did I understand?](#what-did-I-understand)
 	* [Facts](#facts)
 	* [Why developers should care? ](#why-developers-should-care) `WIP`
-	* [How developers care?](#how-developers-care)
 * [Accessible Web for Everyone](#accessible-web-for-everyone)
 	* [WebAIM Checklist](#webaim-checklist)
 * [Impressions](#impressions)
