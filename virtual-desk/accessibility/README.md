@@ -31,7 +31,7 @@ Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restr
 
 **<p align="center"> If you don't make it accessible, you make it inaccessible.</p>**
 
-I heard these words in a tutorial of Jon Kuperman (*5)](#resources). That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
+I heard these words in a tutorial of Jon Kuperman  [(*5)](#resources). That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
 
 > The purpose of this technique is to show how images can be marked so that they can be ignored by Assistive Technology. If no title attribute is used, and the alt text is set to null (i.e. alt="") it indicates to assistive technology that the image can be safely ignored. [(*6)](#resources)
 
