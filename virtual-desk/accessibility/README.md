@@ -23,8 +23,6 @@ There are plenty amount of facts to show why web accessibility is one of the imp
 3. **People with disabilities can live and participate in the community. They can become potential users.**
 
 ## Why developers should care? 
-> "If we don't make it accessible, then we make it inaccessible." [(*5)](#resources)
-
 Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restrictions") and the opportunity of transforming %15 of the local population to potential users. 
 
 `WIP`
@@ -33,7 +31,7 @@ Human Rights, [Legal Restrictions](https://www.w3.org/WAI/policies/ "Legal Restr
 
 **<p align="center"> If you don't make it accessible, you make it inaccessible.</p>**
 
-I heard these words in a tutorial of Jon Kuperman. That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
+I heard these words in a tutorial of Jon Kuperman (*5)](#resources). That was a striking detail for me, 'cause there is a reality that if a developer doesn't add an `alt` attribute to a `<img>` tag, that image indicates a content issue for assistive technologies. That makes the image inaccessible. 
 
 > The purpose of this technique is to show how images can be marked so that they can be ignored by Assistive Technology. If no title attribute is used, and the alt text is set to null (i.e. alt="") it indicates to assistive technology that the image can be safely ignored. [(*6)](#resources)
 
