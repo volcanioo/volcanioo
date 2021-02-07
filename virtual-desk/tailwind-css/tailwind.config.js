@@ -1,11 +1,95 @@
 module.exports = {
+  purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  darkMode: false, // or 'media' or 'class'
   theme: {
-    backgroundColor: theme => ({
+    fontFamily: {
+      sans: ['Source Sans Pro', 'sans-serif'],
+      serif: ['serif'],
+    },
+    // Breakpoints
+    screens: {
+      sm: '480px',
+      md: '768px',
+      lg: '976px',
+      xl: '1440px',
+    },
+    colors: {
+      white: "#ffffff",
       primary: {
-        100: '#3490dc',
-        500: '#ffed4a',
-        600: '#e3342f',
+        80: '#C2DDFF',
+        100: '#1C3553',
+        110: '#2988FF',
       },
-    }),
+      secondary: '#5BA4FF',
+      tertiary: '#F76923',
+      quaternary: '#495D75',
+      success: '#63B65B',
+      error: '#E00016',
+      purple: {
+        100: '#faf5ff',
+        200: '#e9d8fd',
+        300: '#d6bcfa',
+        400: '#b794f4',
+        500: '#9f7aea',
+        600: '#805ad5',
+        700: '#6b46c1',
+        800: '#553c9a',
+        900: '#44337a',
+      },
+      blue: {
+        100: '#ebf8ff',
+        200: '#bee3f8',
+        300: '#90cdf4',
+        400: '#63b3ed',
+        500: '#4299e1',
+        600: '#3182ce',
+        700: '#2b6cb0',
+        800: '#2c5282',
+        900: '#2a4365',
+      },
+    },
+    fontSize: {
+      'xs': '.75rem',
+      'sm': '.875rem',
+      'tiny': '.875rem',
+      'base': '1rem',
+      'lg': '1.125rem',
+      'xl': '1.25rem',
+      '2xl': '1.334rem',
+      '3xl': '1.5rem',
+    },
+    spacing: {
+      '0': '0',
+      'xxs': '2px',
+      'xs': '4px',
+      's': '8px',
+      'm': '16px',
+      'l': '32px',
+      'xl': '64px',
+      '2xl': '128px',
+      '3xl': '256px',
+    },
+    // Elevations
+    boxShadow: {
+      '0': '0 0 0 rgb(0 0 0 / 20%), 0 0 0 rgb(0 0 0 / 14%), 0 0 0 rgb(0 0 0 / 12%)',
+      '1': '0px 1px 3px rgb(0 0 0 / 20%), 0px 0px 2px rgb(0 0 0 / 14%), 0px 2px 2px rgb(0 0 0 / 12%)',
+      '2': '0px 1px 5px rgb(0 0 0 / 20%), 0px 2px 4px rgb(0 0 0 / 14%), 0px 3px 4px rgb(0 0 0 / 12%)',
+      '3': '0px 1px 8px rgb(0 0 0 / 20%), 0px 3px 3px rgb(0 0 0 / 14%), 0px 3px 4px rgb(0 0 0 / 12%)',
+      '4': '0px 1px 10px rgb(0 0 0 / 20%), 0px 2px 4px rgb(0 0 0 / 14%), 0px 4px 5px rgb(0 0 0 / 12%)',
+      '5': '0px 3px 5px rgb(0 0 0 / 20%), 0px 6px 10px rgb(0 0 0 / 14%), 0px 1px 18px rgb(0 0 0 / 12%)',
+      '6': '0px 4px 5px rgb(0 0 0 / 20%), 0px 8px 10px rgb(0 0 0 / 14%), 0px 3px 14px rgb(0 0 0 / 12%)',
+      '7': '0px 5px 6px rgb(0 0 0 / 20%), 0px 9px 12px rgb(0 0 0 / 14%), 0px 3px 16px rgb(0 0 0 / 12%)',
+      '8': '0px 7px 8px rgb(0 0 0 / 20%), 0px 12px 17px rgb(0 0 0 / 14%), 0px 5px 22px rgb(0 0 0 / 12%)',
+      '9': '0px 8px 10px rgb(0 0 0 / 20%), 0px 16px 24px rgb(0 0 0 / 14%), 0px 6px 30px rgb(0 0 0 / 12%)',
+      '10': '0px 11px 15px rgb(0 0 0 / 20%), 0px 24px 38px rgb(0 0 0 / 14%), 0px 9px 46px rgb(0 0 0 / 12%)',
+    },
+    extend: {
+    },
   },
+  variants: {
+    extend: {
+      transform: ['hover', 'focus'],
+    },
+  },
+  plugins: [],
 }
