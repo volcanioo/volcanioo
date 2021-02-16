@@ -1,7 +1,14 @@
-import Light from "core-of-the-light";
+import Light from "core-of-the-light"; // import light from code of light
 
-function Run() {
-  Light.off()
+function Run() { // create a function as Run
+  
+  Light.off() // light off
+  
 }
 
-Run();
+Run(); // run the function
+
+
+
+
+// Then your lights will be off.
