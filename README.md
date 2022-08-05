@@ -1,5 +1,3 @@
-![Image](me.png)
-
 I love to develop useful apps. Currently, I'm working at [Homeday](https://www.homeday.de/de/) a company that makes it quick and straightforward to sell/buy a house in Germany. I'm working on [My Homeday App](https://my.homeday.de/login) which is entirely structured with Vue.
  
 - 👨🏼‍💻 You can see what I'm searching and learning currently [on my virtual desk](https://github.com/volcanioo/volcanioo/tree/main/virtual-desk).
